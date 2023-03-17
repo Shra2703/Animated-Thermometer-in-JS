@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:rgb(78, 78, 200);
+
+}
+.outerDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20rem;
+    /* border: 1px solid black; */
+    width: 41rem;
+    margin: auto;
+    margin-top: 7rem;
+    background-color: #201818;
+    border-radius: 20px;
+    box-shadow: 3px 12px 38px grey;
+
+}
+h1{
+    font-size: 5rem;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+
+}
