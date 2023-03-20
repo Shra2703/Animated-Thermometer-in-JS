@@ -1,5 +1,5 @@
 # Animated-Thermometer-in-JS
-This is animated thermometer with the help of vanilla JavaScript here i didn't use any of the font-awesome direct icon only unicode used.
+*_This is animated thermometer with the help of vanilla JavaScript here i didn't use any of the font-awesome direct icon only unicode used._*
 
 ## Link 🔗: https://shra2703.github.io/Animated-Thermometer-in-JS/
 
